@@ -51,16 +51,15 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# Ache
+# {你的名字}
 
-1. LXDAO 治理组成员
-2. 你认为你会完成本次残酷学习吗？ OFC ！
+1. Iyi[奕] 一名后端开发者 golang、Node.js、进入 web3 行业 2年
+2. 你认为你会完成本次残酷学习吗？ 会
 
 ## Notes
 
 <!-- Content_START -->
-### 2024.12.09
-111
+
 ### 2024.12.10
 
 笔记内容
